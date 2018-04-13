@@ -1,0 +1,5 @@
+Credentials cache: API:591DA7AB-3865-4500-9CA0-7A87FD1D462E
+        Principal: ndooge@42.FR
+
+  Issued                Expires               Principal
+Apr 10 08:53:43 2018  Apr 17 08:53:39 2018  krbtgt/42.FR@42.FR
